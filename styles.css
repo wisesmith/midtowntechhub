@@ -1,0 +1,27 @@
+.container1 {
+    float: left;
+    padding: 10px;
+}
+.container2 {
+    float: left;
+    padding: 20px;
+}
+.container3 {
+    float: left;
+    width: 40%;
+    height: 200px;
+    padding: 50px;
+}
+button {
+    background-color: rgb(124, 252, 0);
+    width: 100px;
+    height: 30px;
+    float: left;
+    clear: left;
+    margin-left: 50px;
+}
+.main-container{
+    float: left;
+    padding-top: 100px;
+    padding-left: 50px;
+}
